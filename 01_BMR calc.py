@@ -20,4 +20,5 @@ elif gender == 'F':
     print(BMRFW)
 
 else :
-    print("You are gay")
+
+    print("Type something valid")
